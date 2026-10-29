@@ -1,0 +1,16 @@
+{
+    "id": "TrickOrTreat",
+    "name": "Trick or Treat",
+    "author": [
+        "NickTG"
+    ],
+    "description": "A Halloween deck for Balatro. Every blind you select flips Trick or Treat: a Candy that copies a Joker, or a Ghost that haunts one.",
+    "prefix": "ntgtt",
+    "main_file": "TrickOrTreat.lua",
+    "priority": 0,
+    "badge_colour": "FD8200",
+    "version": "1.0.0",
+    "dependencies": [
+        "Steamodded (>=1.0.0~BETA-1620a)"
+    ]
+}
